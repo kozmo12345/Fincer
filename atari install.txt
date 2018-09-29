@@ -1,0 +1,5 @@
+simple install atari bin
+pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
+
+If you have any distutils supported compiler you can install from sources:
+pip install git+https://github.com/Kojoley/atari-py.git
